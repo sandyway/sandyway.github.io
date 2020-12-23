@@ -1,3 +1,7 @@
+body {
+  text-align: center;  
+}
+
 .Site {
   display: flex;
   display: -webkit-flex; /* Safari */
@@ -12,4 +16,8 @@
 a {
   text-decoration:none;
   color: #bbb;
+}
+
+footer {
+  text-align: center;
 }
